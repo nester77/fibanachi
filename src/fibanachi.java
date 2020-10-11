@@ -12,10 +12,5 @@ public class fibanachi {
             b=c+b;
         }
     }
-
-
-
-
-
 }
 
